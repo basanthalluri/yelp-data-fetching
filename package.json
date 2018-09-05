@@ -1,5 +1,5 @@
 {
-  "name": "datascrapping",
+  "name": "yelpdata",
   "version": "1.0.0",
   "description": "",
   "main": "scrapping.js",
