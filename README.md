@@ -3,7 +3,7 @@ The Yelp Fusion API provides access to the industry leading Yelp content and dat
 After Cloning the project.
  
 
-1. Genererate the yelp fusion api key  and paste it in config file.
+1. Genererate the [Yelp Fusion API](https://www.yelp.com/developers/documentation/v3/authentication) key  and paste it in config file.
     EX: Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 2. Add your Database Name in db.js
 3. Open terminal and change the current directory to project folder path (using  cd "projectfolder/path")
